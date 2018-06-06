@@ -1,0 +1,14 @@
+﻿  Game.cpp
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(107): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(108): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(208): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(209): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(210): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(211): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(212): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(213): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(214): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Asteroids.vcxproj -> C:\Users\zpetersen.2019\source\repos\Asteroids\Debug\Asteroids.exe

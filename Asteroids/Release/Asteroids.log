@@ -1,0 +1,19 @@
+﻿  Game.cpp
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(109): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(110): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(210): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(211): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(212): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(213): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(214): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(215): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\zpetersen.2019\source\repos\asteroids\asteroids\game.cpp(216): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Generating code
+  0 of 721 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Asteroids.vcxproj -> C:\Users\zpetersen.2019\source\repos\Asteroids\Release\Asteroids.exe
